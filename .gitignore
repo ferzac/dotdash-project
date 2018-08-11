@@ -1,0 +1,3 @@
+#Files and Folder to ignore
+/.DS_Store
+automation/testsuit/target
